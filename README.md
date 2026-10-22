@@ -1,3 +1,5 @@
+> **This project's home is now [github.com/globe-teck/site-checker](https://github.com/globe-teck/site-checker).** This copy stays up for existing links. Please open issues and pull requests there.
+
 # site-checker
 
 [![CI](https://github.com/leighsrodney-prog/site-checker/actions/workflows/ci.yml/badge.svg)](https://github.com/leighsrodney-prog/site-checker/actions/workflows/ci.yml)
